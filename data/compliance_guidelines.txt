@@ -1,0 +1,9 @@
+Compliance Review Guidelines
+
+Customer data must be handled according to privacy and access-control requirements. Analysts should only access records needed for the assigned investigation. Sensitive information such as full account numbers, tax identifiers, and authentication secrets must not be copied into external tools.
+
+When using AI-assisted review tools, analysts must verify retrieved evidence before making a final decision. AI outputs are advisory and should not replace human judgment.
+
+Cases involving possible money laundering, sanctions concerns, identity theft, or unauthorized account access should be escalated according to internal compliance procedures.
+
+All review notes should be concise, factual, and audit-ready. Notes should avoid speculation and should clearly separate verified evidence from assumptions.

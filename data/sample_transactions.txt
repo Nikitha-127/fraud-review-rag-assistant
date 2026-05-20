@@ -1,0 +1,9 @@
+Sample Transaction Scenarios
+
+Scenario A: A customer with a history of small domestic purchases initiates three international wire transfers within 30 minutes after adding a new beneficiary. The login came from a new device and a new IP address. Recommended action: hold transaction and request enhanced verification.
+
+Scenario B: A long-standing customer makes a high-value purchase from a recognized merchant using the same device, same location, and typical spending pattern. Recommended action: approve if no additional risk flags are present.
+
+Scenario C: A password reset occurs, followed by a shipping address change and a high-value electronics purchase within one hour. Recommended action: escalate for potential account takeover.
+
+Scenario D: Multiple failed login attempts occur from different countries, followed by a successful login and attempted fund transfer. Recommended action: restrict account activity and escalate to fraud operations.

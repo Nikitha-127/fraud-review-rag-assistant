@@ -1,0 +1,9 @@
+Fraud Review Policy
+
+Transactions should be escalated for enhanced review when one or more high-risk signals are present. High-risk signals include unusual transaction velocity, login from a new device followed by a high-value transfer, account profile changes within 24 hours of payment activity, mismatched billing and shipping information, or repeated failed authentication attempts.
+
+Analysts should compare the current activity against historical account behavior. If the transaction is inconsistent with prior usage patterns, the analyst should request additional verification before approval.
+
+For suspected account takeover, analysts must review recent password resets, device changes, IP address changes, beneficiary additions, and failed login patterns. If two or more takeover indicators are present, the case should be escalated to the fraud operations team.
+
+Fraud decisions must be documented with evidence, including transaction ID, timestamp, risk indicators, review notes, and final decision rationale.
